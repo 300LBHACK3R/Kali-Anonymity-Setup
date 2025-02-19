@@ -62,7 +62,7 @@ echo "[+] Configuring MAC Address Spoofing..."
 echo "[+] Setting up automatic MAC change on network interface up..."
 cat > /etc/network/if-pre-up.d/macchanger <<'EOF'
 
-# This script randomizes MAC addresses for all interfaces except loopback
+# ---- This Script Randomizes MAC Addresses For All Interfaces Except Loopback. ----
 for iface in $(ip link | grep -o '^[0-9]*: [^:]*' | cut -d ' ' -f2 | grep -v lo); do
     macchanger -r "$iface"
 done
