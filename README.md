@@ -15,7 +15,7 @@ This script configures Tor, ProxyChains, MAC spoofing, and Anonsurf to route all
 ---------------------------
 1️⃣ Clone the Repository
 ---------------------------
-git clone https://github.com/YOUR_GITHUB_USERNAME/Kali-Anonymity-Setup.git
+git clone https://github.com/300LBHACKER/Kali-Anonymity-Setup.git
 
 cd Kali-Anonymity-Setup
 
