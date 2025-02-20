@@ -1,9 +1,11 @@
 Kali-Anonymity-Setup
+------------------------
 🔒 Fully automated anonymity setup for Kali Linux!
-
+======================================================
 This script configures Tor, ProxyChains, MAC spoofing, and Anonsurf to route all your traffic anonymously.
 
 🚀 Features
+---------------------
 ✅ Installs: Tor, ProxyChains, Anonsurf, MAC Spoofing
 ✅ Fixes DNS issues (if detected)
 ✅ Routes all traffic through Tor automatically
