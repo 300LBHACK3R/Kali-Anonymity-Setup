@@ -40,8 +40,8 @@ If you see "Congratulations. This browser is configured to use Tor", it's workin
 Run any tool through Tor:
 
 proxychains firefox
-proxychains nmap -sT example.com
-proxychains sqlmap -u "http://example.com"
+proxychains nmap -sT Tatesplayground.ca
+proxychains sqlmap -u "http://tatesplayground.ca"
 
 🔹 Check MAC Spoofing
 macchanger -s wlan0  # Replace wlan0 with your actual network interface
