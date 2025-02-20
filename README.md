@@ -1,7 +1,6 @@
 
 ![My Art](/Photo.png)
 
-
 Kali-Anonymity-Setup
 ------------------------
 🔒 Fully automated anonymity setup for Kali Linux!
@@ -87,3 +86,7 @@ This project is licensed under the MIT License.
 
 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity 😎
 🔥 Stay Anonymous, Stay Safe! 🔥
+
+
+![My Art](/Photo1.png)
+![My Art](/Photo2.png)
