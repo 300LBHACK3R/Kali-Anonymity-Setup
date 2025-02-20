@@ -88,5 +88,5 @@ This project is licensed under the MIT License.
 🔥 Stay Anonymous, Stay Safe! 🔥
 
 
-![My Art](/Photo1.png)
-![My Art](/Photo2.png)
+![ScreenShot](/Photo1.png)
+![ScreenShot](/Photo2.png)
