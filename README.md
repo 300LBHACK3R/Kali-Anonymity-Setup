@@ -13,8 +13,6 @@ This script configures Tor, ProxyChains, MAC spoofing, and Anonsurf to route all
 ✅ Changes MAC address automatically on network connection
 ✅ Runs on fresh Kali Linux installs without breaking networking
 
-📥 Installation & Usage
----------------------------
 1️⃣ Clone the Repository
 ---------------------------
 git clone https://github.com/300LBHACK3R/Kali-Anonymity-Setup.git
