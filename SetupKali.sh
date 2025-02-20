@@ -7,7 +7,7 @@
 
 # ---- Auto-Anonymity Script for Kali Linux. -----
 
-echo "Starting anonymous setup on Kali Linux..."
+echo "Starting BadAss Anonymous Setup On Kali Linux..."
 echo "========================================="
 sleep 2
 
