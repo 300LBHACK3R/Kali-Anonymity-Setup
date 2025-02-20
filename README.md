@@ -1,5 +1,5 @@
 
-![My cool screenshot](/Photo.png)
+![My Art](/Photo.png)
 
 
 Kali-Anonymity-Setup
