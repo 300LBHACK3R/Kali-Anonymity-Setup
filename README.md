@@ -60,9 +60,10 @@ Restart the Tor service:
 sudo systemctl restart tor
 Manually test Tor connection:
 
-
 proxychains curl https://check.torproject.org
+
 🔗 Contributing
+------------------
 Fork the repo
 Create a new branch:
 
