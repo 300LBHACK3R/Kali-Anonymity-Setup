@@ -89,6 +89,7 @@ echo "[+] Your traffic is now routed through Tor."
 echo "[+] Use 'proxychains' before commands to route them through Tor."
 echo "[+] MAC addresses will change on each connection."
 echo "[+] Stay safe and anonymous!"
+echo "Enjoy the Anonymity, YOU BADASS!!
 echo "========================================="
 
 # ---- 2025 Tate R.A Byers - Crafted with Intellect and Ingenuity 😎 ----
