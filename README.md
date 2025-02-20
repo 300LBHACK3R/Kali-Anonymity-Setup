@@ -1,3 +1,6 @@
+
+(photo.png)
+
 Kali-Anonymity-Setup
 ------------------------
 🔒 Fully automated anonymity setup for Kali Linux!
