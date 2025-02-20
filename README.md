@@ -1,5 +1,5 @@
 
-(/Photo.png)
+!(/Photo.png)
 
 
 Kali-Anonymity-Setup
