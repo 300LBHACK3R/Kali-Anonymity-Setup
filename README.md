@@ -66,19 +66,7 @@ Manually test Tor connection:
 
 proxychains curl https://check.torproject.org
 
-🔗 Contributing
-------------------
-Fork the repo
-Create a new branch:
 
-git checkout -b feature-name
-Make your changes & commit:
-
-git commit -m "Description of changes"
-Push changes:
-
-git push origin feature-name
-Open a Pull Request 🚀
 
 📜 License
 --------------
